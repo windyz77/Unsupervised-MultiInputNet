@@ -1,4 +1,4 @@
-# Lili Lin, Qiujian Li, Bin Gao, Yuxiang Yan, Wenhui Zhou, and Ercan Engin Kuruoglu, Unsupervised Learning of Light Field Depth Estimation with Spatial and Angular Consistencies. Neurocomputing, 2022. 501: p. 113--122.  https://doi.org/10.1016/j.neucom.2022.06.011   
+Lili Lin, Qiujian Li, Bin Gao, Yuxiang Yan, Wenhui Zhou, and Ercan Engin Kuruoglu, Unsupervised Learning of Light Field Depth Estimation with Spatial and Angular Consistencies. Neurocomputing, 2022. 501: p. 113--122.  https://doi.org/10.1016/j.neucom.2022.06.011   
 
 ![image](https://github.com/windyz77/Unsupervised-Light-Field-Depth-Estimation/blob/master/net.png)
 
@@ -41,7 +41,6 @@ test
 
     --checkpoint_path ./output/check_code1/MultiDepth/your model
 
-Unsupervised learning of light field depth estimation with spatial and angular consistencies
 ====================================
     @article{article,
         author = {Lin, Lili and Li, Qiujian and Gao, Bin and Yan, Yuxiang and Zhou, Wenhui and Kuruoglu, Ercan},
