@@ -40,5 +40,3 @@ test
     --val_txt_path' /your/path/train_val_txt/4dlf_7x7star_val.txt
 
     --checkpoint_path ./output/check_code1/MultiDepth/your model
-
-====================================
