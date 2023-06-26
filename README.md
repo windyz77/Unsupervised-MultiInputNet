@@ -42,13 +42,3 @@ test
     --checkpoint_path ./output/check_code1/MultiDepth/your model
 
 ====================================
-    @article{article,
-        author = {Lin, Lili and Li, Qiujian and Gao, Bin and Yan, Yuxiang and Zhou, Wenhui and Kuruoglu, Ercan},
-        year = {2022},
-        month = {06},
-        pages = {},
-        title = {Unsupervised learning of light field depth estimation with spatial and angular consistencies},
-        volume = {501},
-        journal = {Neurocomputing},
-        doi = {10.1016/j.neucom.2022.06.011}
-    }
